@@ -1,6 +1,10 @@
 <a href="https://github.com/Lookhacker">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lookhacker&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
+<a href="https://github.com/Lookhacker">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lookhacker" />
+</a>
+
 - 👋 Hi, I’m @Lookhacker
 - 👀 I’m interested in WinApplication
 - 🌱 I’m currently learning Api and ASP.net
